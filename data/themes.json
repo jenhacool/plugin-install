@@ -1,0 +1,38 @@
+{
+  "twentynineteen": {
+    "Name": "Twenty Nineteen",
+    "Title": "Twenty Nineteen",
+    "Version": "1.1",
+    "Author": "the WordPress team",
+    "Author URI": "https://wordpress.org/",
+    "Template": "twentynineteen",
+    "Stylesheet": "twentynineteen"
+  },
+  "twentyseventeen": {
+    "Name": "Twenty Seventeen",
+    "Title": "Twenty Seventeen",
+    "Version": "1.9",
+    "Author": "the WordPress team",
+    "Author URI": "https://wordpress.org/",
+    "Template": "twentyseventeen",
+    "Stylesheet": "twentyseventeen"
+  },
+  "twentysixteen": {
+    "Name": "Twenty Sixteen",
+    "Title": "Twenty Sixteen",
+    "Version": "1.7",
+    "Author": "the WordPress team",
+    "Author URI": "https://wordpress.org/",
+    "Template": "twentysixteen",
+    "Stylesheet": "twentysixteen"
+  },
+  "twentytwenty": {
+    "Name": "Twenty Twenty",
+    "Title": "Twenty Twenty",
+    "Version": "1.1",
+    "Author": "the WordPress team",
+    "Author URI": "https://wordpress.org/",
+    "Template": "twentytwenty",
+    "Stylesheet": "twentytwenty"
+  }
+}
